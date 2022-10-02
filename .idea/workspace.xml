@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22232067-2aaf-435e-9cbf-f667a4da9b07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BTH1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitap2_dh2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BTH1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +39,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "K:/Tai Lieu Hoc Rikkei Academy/Module 2/untitled4",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baitap1_2">
-    <configuration name="Baitap1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baitap1_2" />
+  <component name="RunManager" selected="Application.Baitap2_dh2">
+    <configuration name="Baitap1_ptb2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitap1_ptb2" />
       <module name="untitled4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1" />
+    <configuration name="Baitap2_dh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitap2_dh2" />
+      <module name="untitled4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="untitled4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hggggf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hggggf" />
       <module name="untitled4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baitap1_2" />
-        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Baitap2_dh2" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Baitap1_ptb2" />
+        <item itemvalue="Application.hggggf" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +98,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658935995902</updated>
-      <workItem from="1658935997619" duration="4311000" />
+      <workItem from="1658935997619" duration="4855000" />
+      <workItem from="1658971737425" duration="9592000" />
+      <workItem from="1659015636621" duration="1818000" />
+      <workItem from="1659074819036" duration="119000" />
+      <workItem from="1661150871283" duration="351000" />
+      <workItem from="1664416237521" duration="14000" />
+      <workItem from="1664418117009" duration="7000" />
+      <workItem from="1664692464941" duration="669000" />
     </task>
     <servers />
   </component>
